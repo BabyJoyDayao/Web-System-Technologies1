@@ -21,7 +21,8 @@
 
             <article>
                 <button>Lets Talk</button>
-
+            </article>
+        </section>
     </header>
     <main>
         <section>
@@ -36,7 +37,7 @@
             <a href="index.html">facebook</a>
             <a href="index.html">facebook</a>
             <a href="index.html">facebook</a>
-        <section>   
+        </section>   
     
         <section>
             <h6>By John Doe | March 15, 2023</h6>
@@ -83,50 +84,115 @@ In this blog post, we'll dive a little deeper on how (and why) to keep your home
     </main>
     <footer>
         <section>
+            <section>
                 <img src="logo.png" alt="image">
                 <h3>SmartBug.</h3>
-                <article>
-                    <button>Boost Revenue</button>
-                </article>
+                    <article>
+                        <button>Boost Revenue</button>
+                    </article>
+                    
+             </section>
 
-            </section>
+            <section>
                 <a href="index.html">FB</a>
                 <a href="index.html">IG</a>
                 <a href="index.html">YT</a>
                 <a href="index.html">IN</a>
                 <a href="index.html">PINTEREST</a>
             </section>
+    
             <section>
-                <h6>© 2025 SmartBug Media, Inc., a full-service digital agency.</h6>
-                <a href="index.html">Privacy Policy</a>
-                <a href="index.html">Terms of Service</a>
-                <a href="index.html">Sitemap</a>
-            </section>
-
-            <section>
-            <article>
-                <a href="index.html">HubSpot Services</a>
-                <a href="index.html">AI & Tech Services</a>
-                <a href="index.html">Industries</a>
-                <a href="index.html">Work & Awards</a>
-                <a href="index.html">About</a>
-                <a href="index.html">Resources</a>
-            </article>
-
-            <section>       
-
-            </section>  
-
-            <section>
-                <h6>© 2025 SmartBug Media, Inc., a full-service digital agency.</h6>
-                <a href="index.html">Privacy Policy</a>
-                <a href="index.html">Terms of Service</a>
-                <a href="index.html">Sitemap</a>
+                <p>© 2025 SmartBug Media, Inc., a full-service digital agency</p>
+    
+                <a href="no.4.html">privacy</a> 
+                <a href="index.html">terms</a> 
+                <a href="no.6.html">HIPPA</a>
             </section>
             
             <section>
+                <h6>© 2025 SmartBug Media, Inc., a full-service digital agency.</h6>
+                <a href="index.html">Privacy Policy</a>
+                <a href="index.html">Terms of Service</a>
+                <a href="index.html">Sitemap</a>
+                <a href="index.html">Privacy Policy</a>
+                <a href="index.html">Terms of Service</a>
+                <a href="index.html">Sitemap</a>
+                <a href="index.html">Privacy Policy</a>
+                <a href="index.html">Terms of Service</a>
+                <a href="index.html">Sitemap</a>
+                <a href="index.html">Sitemap</a>
+            </section>
 
-        <p>&copy; 2023 Smartbug. All rights reserved.</p>
+            <section>
+                <h6>© 2025 SmartBug Media, Inc., a full-service digital agency.</h6>
+                <a href="index.html">Privacy Policy</a>
+                <a href="index.html">Terms of Service</a>
+                <a href="index.html">Sitemap</a>
+                <a href="index.html">Privacy Policy</a>
+                <a href="index.html">Terms of Service</a>
+            </section>
+
+            <section>
+                <h6>© 2025 SmartBug Media, Inc., a full-service digital agency.</h6>
+                <a href="index.html">Privacy Policy</a>
+                <a href="index.html">Terms of Service</a>
+                <a href="index.html">Sitemap</a>
+                <a href="index.html">Privacy Policy</a>
+                <a href="index.html">Terms of Service</a>
+            </section>
+
+            <section>
+                <h6>© 2025 SmartBug Media, Inc., a full-service digital agency.</h6>
+                <a href="index.html">Privacy Policy</a>
+                <a href="index.html">Terms of Service</a>
+                <a href="index.html">Sitemap</a>
+                <a href="index.html">Privacy Policy</a>
+                <a href="index.html">Terms of Service</a>
+            </section>
+
+            <section>
+                <h6>© 2025 SmartBug Media, Inc., a full-service digital agency.</h6>
+                <a href="index.html">Privacy Policy</a>
+                <a href="index.html">Terms of Service</a>
+                <a href="index.html">Sitemap</a>
+                <a href="index.html">Privacy Policy</a>
+                <a href="index.html">Terms of Service</a>
+            </section>
+
+            <section>
+                <h6>© 2025 SmartBug Media, Inc., a full-service digital agency.</h6>
+                <a href="index.html">Privacy Policy</a>
+                <a href="index.html">Terms of Service</a>
+                <a href="index.html">Sitemap</a>
+                <a href="index.html">Privacy Policy</a>
+                <a href="index.html">Terms of Service</a>
+                <a href="index.html">Privacy Policy</a>
+                <a href="index.html">Terms of Service</a>
+            </section>
+
+            <section>
+                <h6>© 2025 SmartBug Media, Inc., a full-service digital agency.</h6>
+                <a href="index.html">Privacy Policy</a>
+                <a href="index.html">Terms of Service</a>
+                <a href="index.html">Sitemap</a>
+                <a href="index.html">Privacy Policy</a>
+                <a href="index.html">Terms of Service</a>
+                <a href="index.html">Privacy Policy</a>
+                <a href="index.html">Terms of Service</a>
+            </section>
+
+            <section>
+                <h6>© 2025 SmartBug Media, Inc., a full-service digital agency.</h6>
+                <a href="index.html">Privacy Policy</a>
+                <a href="index.html">Terms of Service</a>
+                <a href="index.html">Sitemap</a>
+                <a href="index.html">Privacy Policy</a>
+                <a href="index.html">Terms of Service</a>
+                <a href="index.html">Privacy Policy</a>
+                <a href="index.html">Terms of Service</a>
+                <a href="index.html">Privacy Policy</a>
+                <a href="index.html">Terms of Service</a>
+            </section>
         </section>
     </footer>
 </body>
